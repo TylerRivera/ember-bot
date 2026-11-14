@@ -1,0 +1,4 @@
+aiogram==3.31.0
+pillow==13.0.0
+python-dotenv==1.2.4
+tzdata==2026.6
